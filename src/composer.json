@@ -1,0 +1,6 @@
+{
+    "name": "foo/foo",
+    "require": {
+        "psr/log": "^1.0"
+    }
+}
